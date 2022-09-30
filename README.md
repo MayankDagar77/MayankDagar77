@@ -76,15 +76,15 @@
 <p align="center">
 
 <p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=riturajnagar&show_icons=true&locale=en" alt="error" />
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=riturajnagar&" alt="riturajnagar" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=mayankdagar77&show_icons=true&locale=en" alt="error" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdagar77&" alt="mayankdagar77" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riturajnagar&show_icons=true&locale=en&layout=compact" alt="error" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdagar77&show_icons=true&locale=en&layout=compact" alt="error" />
 </p>
 <p>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=riturajnagar&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
+   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mayankdagar77&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
 </p>
 
 
