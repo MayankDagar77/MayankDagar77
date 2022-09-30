@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **riturajnagar78@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10e7-Av0F3f5VrOsCQ5KliDJ86T9ew4mY/view?usp=sharing](https://drive.google.com/file/d/10e7-Av0F3f5VrOsCQ5KliDJ86T9ew4mY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VP--eX-D7dGITwZollWBhmGv_qJPFlPm/view?usp=sharing](https://drive.google.com/file/d/1VP--eX-D7dGITwZollWBhmGv_qJPFlPm/view?usp=sharing)
 
 <br>
 <br>
