@@ -6,8 +6,9 @@
 
 
 
-<img style="height: 200px;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="">
+//<img style="height: 200px;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="">
 
+![logo](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)
 
 
 - 🌱 I’m currently learning **Java**
