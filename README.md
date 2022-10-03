@@ -84,20 +84,9 @@
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mayankdagar77&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
 </p>
 
-<p>
 <img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
-</p>
      
-<p> #### I Spent My Time On
-```text
-💬 Programming Lanuages:
-HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
-CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
-Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
-GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
-</p>
-
-
+     
  <h3 align="center">Where To Find Me: 📫</h3>
 <div align="center" display="flex">
   <a  href="https://linkedin.com/in/mayank-dagar-a1000b12a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -110,3 +99,13 @@ GitHub & Git             57 mins             █░░░░░░░░░░�
 
 
 <h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+
+#### I Spent My Time On
+```text
+💬 Programming Lanuages:
+HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
+CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
+Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
+GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
+
+
