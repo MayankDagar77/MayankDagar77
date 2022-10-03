@@ -84,9 +84,10 @@
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mayankdagar77&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
 </p>
 
-
+<p>
 <img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
-
+</p>
+     
 <p> #### I Spent My Time On
 ```text
 💬 Programming Lanuages:
