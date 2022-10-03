@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java**
 
-- 📫 How to reach me **riturajnagar78@gmail.com**
+- 📫 How to reach me **mayankdagar77@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VP--eX-D7dGITwZollWBhmGv_qJPFlPm/view?usp=sharing](https://drive.google.com/file/d/1VP--eX-D7dGITwZollWBhmGv_qJPFlPm/view?usp=sharing)
 
