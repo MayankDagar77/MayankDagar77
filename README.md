@@ -1,5 +1,5 @@
 
-<img src ="https://github.com/MayankDagar77/MayankDagar77/blob/main/Github_Banner.png" alt ="Error" height=460px width=1000px> 
+<img src ="https://github.com/MayankDagar77/MayankDagar77/blob/main/Github_Banner.png" alt ="Error" height=500px width=1000px> 
 
 
 - 🌱 I’m currently learning **Java**
