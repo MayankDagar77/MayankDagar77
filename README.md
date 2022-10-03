@@ -1,6 +1,8 @@
 
 <p align = "center"> :bowtie: :bowtie: :bowtie: :bowtie:</p>
 
+<img src = "" alt="Error">
+
 
 ![logo](https://github.com/Sayali-Divate/Sayali-Divate/blob/master/GitHub_Banner.png)
 
