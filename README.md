@@ -87,6 +87,15 @@
 
 <img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
 
+#### I Spent My Time On
+```text
+💬 Programming Lanuages:
+HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
+CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
+Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
+GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%
+
+
  <h3 align="center">Where To Find Me: 📫</h3>
 <div align="center" display="flex">
   <a  href="https://linkedin.com/in/mayank-dagar-a1000b12a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
