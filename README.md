@@ -1,7 +1,7 @@
 
 <p align = "center"> :bowtie: :bowtie: :bowtie: :bowtie:</p>
 
-![logo](https://github.com/MayankDagar77/MayankDagar77/blob/main/Github_Banner.png)
+<p> ![logo](https://github.com/MayankDagar77/MayankDagar77/blob/main/Github_Banner.png) </p>
 
 
 - 🌱 I’m currently learning **Java**
