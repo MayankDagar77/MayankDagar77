@@ -1,10 +1,7 @@
 
 <p align = "center"> :bowtie: :bowtie: :bowtie: :bowtie:</p>
 
-<img src = "" alt="Error">
-
-
-![logo](https://github.com/Sayali-Divate/Sayali-Divate/blob/master/GitHub_Banner.png)
+![logo](https://github.com/MayankDagar77/MayankDagar77/untitled(1).png)
 
 <h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="">, I am Mayank Dagar</h1>
      <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;&right=true&width=400&height=50">
