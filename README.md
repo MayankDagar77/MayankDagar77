@@ -3,8 +3,6 @@
 
 ![logo](https://github.com/MayankDagar77/MayankDagar77/blob/main/Github_Banner.png)
 
-![logo](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)
-
 
 - 🌱 I’m currently learning **Java**
 
