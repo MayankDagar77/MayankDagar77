@@ -4,7 +4,7 @@
 
 - 🌱 I’m learning **Java** at Masai School
 
-- 👨‍💻 All of my projects are available at [https://mayankdagar77.github.io/](https://mayankdagar77.github.io/)
+- 👨‍💻 All of my projects are available at <a href = "https://mayankdagar77.github.io/"> Portfolio🔗</a>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, SQL, GitHub**
 
