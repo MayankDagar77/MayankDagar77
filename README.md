@@ -64,7 +64,7 @@
 <br>
 <br>
 
-<img src="https://github.com/MayankDagar77/MayankDagar77/blob/main/coder_gif.gif" alt="Reupload Coder Gif">
+<img src="https://github.com/MayankDagar77/MayankDagar77/blob/main/coder_gif.gif" alt="Reupload Coder Gif" align=right>
 
 
 <h3 align="left">My GitHub Stats:</h3>
