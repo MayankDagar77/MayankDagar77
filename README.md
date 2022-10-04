@@ -65,7 +65,7 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/MayankDagar77/MayankDagar77/blob/main/coder_gif.gif" alt="Reupload Coder Gif" width=50%>
+<img src="https://github.com/MayankDagar77/MayankDagar77/blob/main/coder_gif.gif" alt="Reupload Coder Gif" width=65%>
 </p>
 
 
