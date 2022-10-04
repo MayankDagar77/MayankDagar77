@@ -2,13 +2,13 @@
 <img src ="https://github.com/MayankDagar77/MayankDagar77/blob/main/My_Github_Banner.png" alt ="Error" height=500px width=100%> 
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m learning **Java** at Masai School
 
 - 👨‍💻 All of my projects are available at [https://mayankdagar77.github.io/](https://mayankdagar77.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, SQL, GitHub**
 
-- 📫 How to reach me **mayankdagar77@gmail.com**
+- 📫 Contact me at **mayankdagar77@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VP--eX-D7dGITwZollWBhmGv_qJPFlPm/view?usp=sharing](https://drive.google.com/file/d/1VP--eX-D7dGITwZollWBhmGv_qJPFlPm/view?usp=sharing)
 
