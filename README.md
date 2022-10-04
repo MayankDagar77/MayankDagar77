@@ -1,5 +1,5 @@
 
-<img src ="https://github.com/MayankDagar77/MayankDagar77/blob/main/My_Github_Banner2.png" alt ="Error" height=300px width=80%> 
+<img src ="https://github.com/MayankDagar77/MayankDagar77/blob/main/My_Github_Banner2.png" alt ="Error" height=300px width=90%> 
 
 
 - 🌱 I’m learning **Java** at Masai School
