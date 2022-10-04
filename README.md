@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, SQL, GitHub**
 
-- 📫 Contact me at <a href = "mayankdagar77@gmail.com">Gmail</a>
+- 📫 Contact me:- <a href = "mayankdagar77@gmail.com">Gmail</a>
 
 - 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1VP--eX-D7dGITwZollWBhmGv_qJPFlPm/view?usp=sharing">Resume 🗎</a>
 
