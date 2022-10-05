@@ -1,6 +1,4 @@
 
-<img src ="" alt ="Reupload Image" height=250px > 
-
 ![logo](https://github.com/MayankDagar77/MayankDagar77/blob/main/Github_BannerFinal.png)
 
 
