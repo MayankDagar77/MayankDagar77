@@ -2,7 +2,7 @@
 <img src ="https://github.com/MayankDagar77/MayankDagar77/blob/main/Github_Banner_Main.png" alt ="Reupload Image" height=350px width=100%> 
 
 
-- 🌱 I’m learning **Java** at <a href="https://www.masaischool.com/" target="_blank">Masai School</a>
+- 📘 I’m learning **Java** at <a href="https://www.masaischool.com/" target="_blank">Masai School</a>
 
 - 👨‍💻 All of my projects are available at <a href = "https://mayankdagar77.github.io/"  target ="_blank"> Portfolio🔗</a>
 
