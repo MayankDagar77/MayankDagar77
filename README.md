@@ -1,5 +1,5 @@
 
-<img src ="https://github.com/MayankDagar77/MayankDagar77/blob/main/Github_BannerFinal.png" alt ="Reupload Image" height=250px width=100%> 
+<img src ="https://github.com/MayankDagar77/MayankDagar77/blob/main/Github_BannerFinal.png" alt ="Reupload Image" height=250px > 
 
 
 - 📘 I’m learning **Java** at <a href="https://www.masaischool.com/" target="_blank">Masai School</a>
