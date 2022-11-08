@@ -10,6 +10,8 @@
 
 - 📫 Contact me:- <a href = "mayankdagar77@gmail.com" target ="_blank">Gmail</a>
 
+- 📫 Connect with me:- <a href ="https://www.linkedin.com/in/mayank-dagar-a1000b12a/" target = "_blank">LinkedIn</a>
+
 - 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1gC81mIykkAfL7A_tY4GDzHyHvqNLEwxT/view?usp=sharing">Resume 🗎</a>
 
 <br>
