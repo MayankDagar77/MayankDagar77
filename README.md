@@ -12,7 +12,7 @@
 
 - 📫 Connect with me on:- <a href ="https://www.linkedin.com/in/mayank-dagar-a1000b12a/" target = "_blank">LinkedIn</a>
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1gC81mIykkAfL7A_tY4GDzHyHvqNLEwxT/view?usp=sharing">Resume 🗎</a>
+- 📄 Know about my experiences <a href = "https://drive.google.com/drive/folders/1McVypdW64wuK5PD3C2KiyZp1VoOZ-02V?usp=sharing">Resume 🗎</a>
 
 <br>
 <br>
