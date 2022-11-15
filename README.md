@@ -75,7 +75,7 @@
 <p align="center">
 
 <p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayankdagar77&show_icons=true&locale=en" alt="error" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=mayankdagar77&show_icons=true&locale=en&theme=radical" alt="error" />
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdagar77&theme=radical" alt="mayankdagar77" />
 </p>
 
