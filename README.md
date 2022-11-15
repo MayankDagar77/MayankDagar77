@@ -76,14 +76,14 @@
 
 <p>
     <img  src="https://github-readme-stats.vercel.app/api?username=mayankdagar77&show_icons=true&locale=en" alt="error" />
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdagar77&" alt="mayankdagar77" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdagar77&theme=radical" alt="mayankdagar77" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdagar77&show_icons=true&locale=en&layout=compact" alt="error" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdagar77&show_icons=true&locale=en&layout=compact&theme=radical" alt="error" />
 </p>
 <p>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mayankdagar77&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
+   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mayankdagar77&theme=gruvbox&hide_border=true&area=true&theme=radical"  width="100%"/>
 </p>
 
 <img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
