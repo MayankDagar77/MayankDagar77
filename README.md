@@ -1,5 +1,6 @@
 
 ![logo](https://github.com/MayankDagar77/MayankDagar77/blob/main/Github_BannerFinal.png) 
+<image src = "https://github.com/MayankDagar77/MayankDagar77/blob/main/Github_BannerFinal.png">
 
 
 - 📘 I’m learning **Java** at <a href="https://www.masaischool.com/" target="_blank">Masai School</a>
