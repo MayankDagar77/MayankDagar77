@@ -82,9 +82,7 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankdagar77&show_icons=true&locale=en&layout=compact&theme=radical" alt="error" />
 </p>
-<p>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mayankdagar77&theme=gruvbox&hide_border=true&area=true&theme=radical"  width="100%"/>
-</p>
+
 
 <img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
      
